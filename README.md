@@ -1,2 +1,3 @@
 # OnlineAlbum
-This is my online album
+This is my online album，and thanks to github!
+
